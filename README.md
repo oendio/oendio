@@ -60,7 +60,7 @@ Atualmente sou estudante de Análise e Desenvolvimento de Sistema e estou desenv
 
 ### Streak Stats
 
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=oendio&theme=transparent&bg_color=003140&border_color=3FAEE5&show_icons=true&icon_color=3FAEE5&title_color=E94D5F&text_color=FFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=oendio&theme=midnight-purple&locale=pt_BR)](https://git.io/streak-stats)
 <!--
 **oendio/oendio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
