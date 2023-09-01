@@ -42,6 +42,7 @@ Atualmente sou estudante de Análise e Desenvolvimento de Sistema e estou desenv
 ![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-003140.svg?logo=database&logoColor=white)
 
 #### Office Tools
+
 ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=whites)
 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=whites)
@@ -58,6 +59,7 @@ Atualmente sou estudante de Análise e Desenvolvimento de Sistema e estou desenv
 ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=oendio&theme=transparent&bg_color=003140&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ### Streak Stats
+
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=oendio&theme=transparent&bg_color=003140&border_color=3FAEE5&show_icons=true&icon_color=3FAEE5&title_color=E94D5F&text_color=FFF)](https://git.io/streak-stats)
 <!--
 **oendio/oendio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
