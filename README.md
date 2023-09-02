@@ -10,7 +10,10 @@ Apaixonado por tecnologia, inovação e Analise de Dados.
 
 Atualmente sou estudante de Análise e Desenvolvimento de Sistema e estou desenvolvendo minhas habilidades em Python, SQL, Git, GitHub e Power BI com foco na análise de dados.
 
-![Media](https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif)
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 ### Conecte-se comigo
 
